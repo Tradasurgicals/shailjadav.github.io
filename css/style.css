@@ -41,7 +41,7 @@ h1, h2, h3, h4, h5, h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: linear-gradient(45deg, #424242, #1dc8cd);
+  background: linear-gradient(45deg, #424242, #777c7b);
   color: #fff;
   padding: 2px 20px 8px 20px;
   font-size: 16px;
@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:focus {
-  background: linear-gradient(45deg, #1de099, #1dc8cd);
+  background: linear-gradient(45deg, #777c7b, #777c7b);
   color: #fff;
   outline: none;
 }
