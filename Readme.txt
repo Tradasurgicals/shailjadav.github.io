@@ -1,6 +1,0 @@
-I used this theme from bootstrapmade.com
-
-Theme Name: Avilon
-Theme URL: https://bootstrapmade.com/avilon-bootstrap-landing-page-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
